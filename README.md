@@ -1,6 +1,6 @@
 # Enable-Password-Configuration
 This lab is designed to guide users through the process of configuring and securing privileged EXEC access on Cisco devices (Router and Switch) using Cisco Packet Tracer.
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/1b0f110a-1646-40c1-a064-053f0bbdd9dc)
 
 🛠️ Lab Objectives
 Change Hostnames
